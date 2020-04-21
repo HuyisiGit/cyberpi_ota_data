@@ -1,0 +1,4 @@
+FILE=/HuyisiGit/cyberpi_ota_data/master/binFiles/app.44.01.t03_test.bin
+INTERVAL=0
+VERSION=44.01.T03
+SIZE=2983616
